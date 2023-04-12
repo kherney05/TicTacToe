@@ -8,6 +8,7 @@ public class Cell{
 		this.state= state;
 		this.cellLine = cellLine;
 		this.cellCol = cellCol;
+		//programando
 	}
 	public GameBean.GameState getState(){
 		return this.state;
