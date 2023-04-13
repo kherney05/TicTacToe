@@ -12,6 +12,7 @@ public class Cell{
 	}
 	public GameBean.GameState getState(){
 		return this.state;
+		//cambio
 	}
 	public int getLine() {
 		return this.cellLine;
